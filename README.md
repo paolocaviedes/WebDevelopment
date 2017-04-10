@@ -1,2 +1,3 @@
-# WebDevelopment
-Repo for WebDevelopment Major
+# Tarea #2 HTML5
+
+## Creación de Curriculum Vitae
